@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sajmon24
-- 👀 I’m interested in HTML, CSS and JS
-- 🌱 I’m currently learning JS
+- 👀 I’m interested in HTML, CSS, JS and React.js
+- 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on making future better ;-)
 - 📫 How to reach me? Via email of course!
 
